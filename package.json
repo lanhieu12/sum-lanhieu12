@@ -1,0 +1,27 @@
+{
+  "name": "sum-lanhieu12",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+	"sum-lanhieu12": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lanhieu12/sum-lanhieu12"
+  },
+  "homepage": "https://twitter.com/HieuTra74823214",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "lanhieu12",
+  "license": "MIT"
+}
